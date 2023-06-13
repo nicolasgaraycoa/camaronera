@@ -4,6 +4,4 @@ dependencies:
   - numpy
   - pandas
   - streamlit
-  - datetime
   - plotly
-  - random
