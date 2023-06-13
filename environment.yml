@@ -3,7 +3,6 @@ dependencies:
   - numpy
   - pandas
   - streamlit
-  - plotly.express
   - datetime
-  - plotly.graph_objs
+  - plotly
   - random
